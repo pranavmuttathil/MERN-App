@@ -1,0 +1,18 @@
+#mypage{
+    background-color: rgb(232, 152, 152);
+}
+
+body .bigwrapper{
+    background-color: rgb(218, 230, 235);
+}
+table{
+    border: 2.5px solid black;
+    border-collapse: collapse;
+}
+
+table td,
+table th {  
+  padding:10px;
+  border: 2px solid black;
+
+}
